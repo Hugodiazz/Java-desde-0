@@ -5,6 +5,8 @@
 ## Contenido
 
 Este repositorio se divide en diferentes secciones, cada una enfocada en un tema específico de Java:
+- Comentarios
+- Variables y Tipos de datos [Video en Youtube](https://www.youtube.com/watch?v=zdQwp_vPHA4)
 
 
 ## Cómo usar este repositorio
