@@ -7,6 +7,7 @@
 Este repositorio se divide en diferentes secciones, cada una enfocada en un tema específico de Java:
 - Comentarios
 - Variables y Tipos de datos [Video en Youtube](https://www.youtube.com/watch?v=zdQwp_vPHA4)
+- Operadores Aritméticos [Video en Youtube](https://www.youtube.com/watch?v=UrwUMmh0hwU&t=1s)
 
 
 ## Cómo usar este repositorio
