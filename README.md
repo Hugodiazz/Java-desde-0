@@ -8,6 +8,11 @@ Este repositorio se divide en diferentes secciones, cada una enfocada en un tema
 - Comentarios
 - Variables y Tipos de datos [Video en Youtube](https://www.youtube.com/watch?v=zdQwp_vPHA4)
 - Operadores Aritméticos [Video en Youtube](https://www.youtube.com/watch?v=UrwUMmh0hwU&t=1s)
+- Operadores Lógicos y de Comparación [Video en Youtube](https://www.youtube.com/watch?v=x7xxia1wWCI)
+- If-Else [Video en Youtube](https://www.youtube.com/watch?v=2_dhN0WTIK4)
+- While [Video en Youtube](https://www.youtube.com/watch?v=bOyTe73YRqE)
+- Do While [Video en Youtube](https://www.youtube.com/watch?v=zxBqZvikaXA)
+- Ciclo For [Video en Youtube](https://www.youtube.com/watch?v=pJOOlK0YGOI)
 
 
 ## Cómo usar este repositorio
