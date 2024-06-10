@@ -5,6 +5,7 @@
 ## Contenido
 
 Este repositorio se divide en diferentes secciones, cada una enfocada en un tema específico de Java:
+## Introducción
 - Comentarios
 - Variables y Tipos de datos [Video en Youtube](https://www.youtube.com/watch?v=zdQwp_vPHA4)
 - Operadores Aritméticos [Video en Youtube](https://www.youtube.com/watch?v=UrwUMmh0hwU&t=1s)
@@ -14,6 +15,13 @@ Este repositorio se divide en diferentes secciones, cada una enfocada en un tema
 - Do While [Video en Youtube](https://www.youtube.com/watch?v=zxBqZvikaXA)
 - Ciclo For [Video en Youtube](https://www.youtube.com/watch?v=pJOOlK0YGOI)
 
+## Algoritmos
+### Ordenamiento
+- Ordenamiento por Burbuja [Video en Youtube](https://www.youtube.com/watch?v=s4Kc-jlWY64)
+### Búsqueda
+- Búsqueda Binaria [Video en Youtube](https://www.youtube.com/watch?v=F2OSPGXbjVs)
+
+## Ejercicios
 
 ## Cómo usar este repositorio
 
