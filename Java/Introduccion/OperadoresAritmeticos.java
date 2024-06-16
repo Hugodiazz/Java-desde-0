@@ -26,9 +26,9 @@ public class OperadoresAritmeticos {
 
 
         //numero1 = numero1 - 1;
-        //Operador de incremento.
+        //Operador de decremento.
         numero1--; // ; 5-1= 4
-        //Operadador de decremento.
+        //Operadador de incremento.
         numero2++; //10+1 = 11
         System.out.println("Nuevo valor de numero 1: " + numero1);
         System.out.println("Nuevo valor de numero 2: " + numero2);
