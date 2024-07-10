@@ -16,6 +16,9 @@ Este repositorio se divide en diferentes secciones, cada una enfocada en un tema
 - Do While [Video en Youtube](https://www.youtube.com/watch?v=zxBqZvikaXA)
 - Ciclo For [Video en Youtube](https://www.youtube.com/watch?v=pJOOlK0YGOI)
 
+## Programación Orientada a Objetos
+- Creación de objeto y definición de propiedades. [Video en Youtube](https://youtu.be/_1sx1bUtnhY)
+
 ## Algoritmos
 ### Ordenamiento
 - Ordenamiento por Burbuja [Video en Youtube](https://www.youtube.com/watch?v=s4Kc-jlWY64)
